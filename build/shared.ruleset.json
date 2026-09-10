@@ -1,9 +1,13 @@
 {
   "name": "Shared Ruleset",
-  "description": "Shared ruleset for incremental build gate tests",
+  "description": "Shared ruleset drift after baseline for scenarios 3-5",
   "rules": [
     {
       "id": "AA0005",
+      "action": "Warning"
+    },
+    {
+      "id": "AA0137",
       "action": "Warning"
     }
   ]
