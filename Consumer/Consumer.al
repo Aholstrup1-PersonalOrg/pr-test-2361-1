@@ -7,7 +7,7 @@ pageextension 50011 CustomerListConsumerExt extends "Customer List"
             action(ShowCoreGreeting)
             {
                 ApplicationArea = All;
-                Caption = 'Show Core Greeting';
+                Caption = 'Show Core Greeting Scenario 4';
 
                 trigger OnAction()
                 var
