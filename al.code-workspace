@@ -5,6 +5,12 @@
     },
     {
       "path": ".AL-Go"
+    },
+    {
+      "path": "Consumer"
+    },
+    {
+      "path": "Other"
     }
   ],
   "settings": {}

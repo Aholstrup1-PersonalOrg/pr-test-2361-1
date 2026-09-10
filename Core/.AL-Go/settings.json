@@ -1,0 +1,8 @@
+{
+  "$schema": "https://raw.githubusercontent.com/aholstrup1/AL-Go/aholstrup1-review-workitem-647482/Actions/.Modules/settings.schema.json",
+  "country": "us",
+  "appFolders": [],
+  "testFolders": [],
+  "bcptTestFolders": [],
+  "rulesetFile": "../build/shared.ruleset.json"
+}

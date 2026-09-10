@@ -1,0 +1,10 @@
+{
+  "name": "Shared Ruleset",
+  "description": "Shared ruleset for incremental build gate tests",
+  "rules": [
+    {
+      "id": "AA0005",
+      "action": "Warning"
+    }
+  ]
+}

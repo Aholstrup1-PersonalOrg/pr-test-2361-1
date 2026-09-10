@@ -1,0 +1,38 @@
+{
+  "id": "9f61b0e8-3a4f-4a80-9036-8d2d31b4a5c1",
+  "name": "Consumer",
+  "publisher": "TestPublisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "e839493c-d861-4681-af92-4ff3f7444097",
+      "name": "Core",
+      "publisher": "TestPublisher",
+      "version": "1.0.0.0"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "22.0.0.0",
+  "idRanges": [
+    {
+      "from": 50011,
+      "to": 50020
+    }
+  ],
+  "features": [
+    "NoImplicitWith"
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}

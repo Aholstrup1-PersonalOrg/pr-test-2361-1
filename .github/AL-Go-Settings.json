@@ -2,5 +2,17 @@
   "$schema": "https://raw.githubusercontent.com/aholstrup1/AL-Go/aholstrup1-review-workitem-647482/Actions/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/aholstrup1/AL-Go@aholstrup1-review-workitem-647482",
-  "templateSha": "2d5ad264e6a5e30f64adf6e5f75d57b42374c6d5"
+  "templateSha": "2d5ad264e6a5e30f64adf6e5f75d57b42374c6d5",
+  "useProjectDependencies": true,
+  "workspaceCompilation": {
+    "enabled": false,
+    "parallelism": 1
+  },
+  "fullBuildPatterns": [
+    "build/*"
+  ],
+  "incrementalBuilds": {
+    "onPull_Request": true,
+    "mode": "modifiedApps"
+  }
 }
