@@ -12,7 +12,7 @@
     "build/*"
   ],
   "incrementalBuilds": {
-    "onPull_Request": false,
+    "onPull_Request": true,
     "mode": "modifiedApps"
   }
 }
