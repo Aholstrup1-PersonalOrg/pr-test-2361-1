@@ -13,7 +13,7 @@ pageextension 50011 CustomerListConsumerExt extends "Customer List"
                 var
                     CoreHelper: Codeunit "Core Helper";
                 begin
-                    Message(CoreHelper.GetGreeting());
+                    Message(CoreHelper.GetScenarioTwoGreeting());
                 end;
             }
         }
