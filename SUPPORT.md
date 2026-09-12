@@ -9,3 +9,5 @@ Please follow the documentation [here](https://github.com/microsoft/AL-Go/blob/m
 ## Microsoft Support Policy
 
 Support for this **PROJECT or PRODUCT** is limited to the resources listed above.
+
+Scenario 6 docs-only change.
